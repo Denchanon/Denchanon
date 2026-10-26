@@ -9,6 +9,7 @@
 ### 🙋 About me
 - 🎓 Computer Engineering student, currently in my 3rd year
 - ⚙️ I enjoy building APIs and backend services, and turning raw data into insights
+- 📚 Currently learning **data analytics**: SQL, Python (pandas) and data visualization
 - 🤝 Used to working in teams: Scrum sprints, pull requests and code review
 - 🔎 Looking for a **Backend / Data Analyst internship**
 
