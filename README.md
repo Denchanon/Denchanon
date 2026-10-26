@@ -32,7 +32,7 @@
 | [**Togethr Frontend**](https://github.com/meephuu/togethr-frontend) | Web frontend for the same travel-companion system (team project). |
 | **Market Data Pipeline** | *(in progress)* Collects market data, stores it, and produces analysis. |
 | [**mini-task-server**](https://github.com/Denchanon/mini-task-server) | Task management server with a separate [web client](https://github.com/Denchanon/mini-task-client). |
-| [**Hardware final project**](https://github.com/Denchanon/harware_final) | FPGA digital design project in Verilog. |
+| [**Hardware final project**](https://github.com/Denchanon/harware_final) | Real-time video pipeline on a Basys 3 FPGA: OV7670 camera → frame buffer → 7 switchable image filters → VGA, written in Verilog with testbenches. |
 
 ### 📊 GitHub stats
 <p>
