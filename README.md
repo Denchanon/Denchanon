@@ -9,6 +9,7 @@
 ### 🙋 About me
 - 🎓 Computer Engineering student, currently in my 3rd year
 - ⚙️ I enjoy building APIs and backend services, and turning raw data into insights
+- 🤟 Working on a team **computer vision** project that recognizes **Thai Sign Language** from video and translates signs into words, using MediaPipe pose landmarks and a Transformer-based model (aiming to beat the SPOTER baseline)
 - 📚 Currently learning **data analytics**: SQL, Python (pandas) and data visualization
 - 🤝 Used to working in teams: Scrum sprints, pull requests and code review
 - 🔎 Looking for a **Backend / Data Analyst internship**
