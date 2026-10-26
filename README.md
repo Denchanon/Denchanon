@@ -31,5 +31,5 @@
 |---|---|
 | [**DeawKoyKid Backend**](https://github.com/DiewKoyKid/DeawKoyKid-Backend) | Backend for a travel-companion booking system, built by an 8-person Scrum team. Contributed features via pull requests and reviewed teammates' code. |
 | [**Togethr Frontend**](https://github.com/meephuu/togethr-frontend) | Web frontend for the same travel-companion system (team project). |
-| [**mini-task-server**](https://github.com/Denchanon/mini-task-server) | Task management server with a separate [web client](https://github.com/Denchanon/mini-task-client). |
+| [**mini-task-server**](https://github.com/Denchanon/mini-task-server) | Task management server with a separate [web client](https://github.com/Denchanon/mini-task-client).(This is my first project to let me learn about frontend and backend) |
 | [**FPGA Real-Time Video Processing**](https://github.com/Denchanon/fpga-realtime-video-processing) | Real-time video pipeline on a Basys 3 FPGA: OV7670 camera → frame buffer → 7 switchable image filters → VGA, written in Verilog with testbenches (3-person team). |
