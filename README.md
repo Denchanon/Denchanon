@@ -30,12 +30,5 @@
 |---|---|
 | [**DeawKoyKid Backend**](https://github.com/DiewKoyKid/DeawKoyKid-Backend) | Backend for a travel-companion booking system, built by an 8-person Scrum team. Contributed features via pull requests and reviewed teammates' code. |
 | [**Togethr Frontend**](https://github.com/meephuu/togethr-frontend) | Web frontend for the same travel-companion system (team project). |
-| **Market Data Pipeline** | *(in progress)* Collects market data, stores it, and produces analysis. |
 | [**mini-task-server**](https://github.com/Denchanon/mini-task-server) | Task management server with a separate [web client](https://github.com/Denchanon/mini-task-client). |
 | [**Hardware final project**](https://github.com/Denchanon/harware_final) | Real-time video pipeline on a Basys 3 FPGA: OV7670 camera → frame buffer → 7 switchable image filters → VGA, written in Verilog with testbenches. |
-
-### 📊 GitHub stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Denchanon&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denchanon&layout=compact&hide_border=true" />
-</p>
